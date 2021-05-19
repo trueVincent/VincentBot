@@ -2,9 +2,9 @@
   "type": "bubble",
   "hero": {
     "type": "image",
-    "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/01_1_cafe.png",
+    "url": "https://dancing2music.ml/static/img/profile.jpg",
     "size": "full",
-    "aspectRatio": "20:13",
+    "aspectRatio": "1922:2727",
     "aspectMode": "cover",
     "action": {
       "type": "uri",
