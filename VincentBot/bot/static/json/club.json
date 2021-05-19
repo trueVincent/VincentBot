@@ -1,0 +1,125 @@
+{
+  "type": "bubble",
+  "hero": {
+    "type": "image",
+    "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/01_1_cafe.png",
+    "size": "full",
+    "aspectRatio": "20:13",
+    "aspectMode": "cover",
+    "action": {
+      "type": "uri",
+      "uri": "https://github.com/trueVincent"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "NTUST Toastmasters",
+        "weight": "bold",
+        "size": "xl"
+      },
+      {
+        "type": "text",
+        "weight": "bold",
+        "size": "xl",
+        "text": "President"
+      },
+      {
+        "type": "text",
+        "text": "Jul. 2019 - Jun. 2021",
+        "size": "xs"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "margin": "lg",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "text",
+            "text": "● Held 50+ club meetings with 12 officers",
+            "wrap": true,
+            "color": "#666666",
+            "size": "sm",
+            "flex": 5
+          },
+          {
+            "type": "text",
+            "text": "● Organized joint study group with 5 Toastmasters club for 6 weeks  in 2020 summer vacation. 30+ people / week",
+            "wrap": true,
+            "color": "#666666",
+            "size": "sm",
+            "flex": 5
+          },
+          {
+            "type": "text",
+            "text": "● Collaborated with 6 different Toastmasters clubs to have joint meeting",
+            "wrap": true,
+            "color": "#666666",
+            "size": "sm",
+            "flex": 5
+          },
+          {
+            "type": "text",
+            "text": "● Trained 20+ members' public English speaking skills",
+            "wrap": true,
+            "color": "#666666",
+            "size": "sm",
+            "flex": 5
+          }
+        ]
+      }
+    ]
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "spacing": "sm",
+    "contents": [
+      {
+        "type": "button",
+        "style": "link",
+        "height": "sm",
+        "action": {
+          "type": "postback",
+          "label": "Club Meetings",
+          "data": "Club Meetings"
+        }
+      },
+      {
+        "type": "button",
+        "style": "link",
+        "height": "sm",
+        "action": {
+          "type": "postback",
+          "label": "Summer Joint Study Group",
+          "data": "Summer Joint Study Group"
+        }
+      },
+      {
+        "type": "button",
+        "style": "link",
+        "height": "sm",
+        "action": {
+          "type": "postback",
+          "label": "Joint Meeting",
+          "data": "Joint Meeting"
+        }
+      },
+      {
+        "type": "button",
+        "style": "link",
+        "height": "sm",
+        "action": {
+          "type": "postback",
+          "label": "Club Events",
+          "data": "Club Events"
+        }
+      }
+    ],
+    "flex": 0
+  }
+}

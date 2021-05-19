@@ -1,0 +1,186 @@
+{
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "size": "full",
+        "aspectRatio": "20:13",
+        "aspectMode": "cover",
+        "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/01_5_carousel.png"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "text",
+            "text": "957 P2P Lending",
+            "wrap": true,
+            "weight": "bold",
+            "size": "xl"
+          },
+          {
+            "type": "text",
+            "text": "Jun. 2020 - Present",
+            "wrap": true,
+            "weight": "bold",
+            "size": "xs"
+          },
+          {
+            "type": "text",
+            "text": "● Matched NT$1.7 millions loan demands",
+            "wrap": true,
+            "weight": "bold",
+            "size": "md",
+            "flex": 0
+          },
+          {
+            "type": "text",
+            "text": "● Established from own idea to product",
+            "wrap": true,
+            "weight": "bold",
+            "size": "md",
+            "flex": 0
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "Website",
+              "uri": "https://957tw.com/loan/"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "size": "full",
+        "aspectRatio": "20:13",
+        "aspectMode": "cover",
+        "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/01_5_carousel.png"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "text",
+            "text": "TWBDA Offical Website",
+            "wrap": true,
+            "weight": "bold",
+            "size": "xl"
+          },
+          {
+            "type": "text",
+            "text": "Feb. 2021 - Mar. 2021",
+            "wrap": true,
+            "weight": "bold",
+            "size": "xs",
+            "flex": 0
+          },
+          {
+            "type": "text",
+            "text": "● Worked with a team of 3. Experienced whole development process",
+            "wrap": true,
+            "weight": "bold",
+            "size": "md",
+            "flex": 0
+          },
+          {
+            "type": "text",
+            "text": "● Built content management system for updating website info",
+            "wrap": true,
+            "weight": "bold",
+            "size": "md",
+            "flex": 0
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "Website",
+              "uri": "https://twbda.org/"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "size": "full",
+        "aspectRatio": "20:13",
+        "aspectMode": "cover",
+        "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/01_5_carousel.png"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "text",
+            "text": "Company Management System",
+            "wrap": true,
+            "weight": "bold",
+            "size": "xl"
+          },
+          {
+            "type": "text",
+            "text": "Oct. 2020 - Nov. 2020",
+            "wrap": true,
+            "weight": "bold",
+            "size": "xs",
+            "flex": 0
+          },
+          {
+            "type": "text",
+            "text": "● Built website for information and authority management",
+            "wrap": true,
+            "weight": "bold",
+            "size": "md",
+            "flex": 0
+          },
+          {
+            "type": "text",
+            "text": "● Finished within 2 weeks. Efficiency under time challenge",
+            "wrap": true,
+            "weight": "bold",
+            "size": "md",
+            "flex": 0
+          },
+          {
+            "type": "text",
+            "text": "● Developed Linebot for 200000+ messages / day",
+            "wrap": true,
+            "weight": "bold",
+            "size": "md",
+            "flex": 0
+          }
+        ]
+      }
+    }
+  ]
+}

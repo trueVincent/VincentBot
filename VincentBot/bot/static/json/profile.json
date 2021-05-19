@@ -1,0 +1,118 @@
+{
+  "type": "bubble",
+  "hero": {
+    "type": "image",
+    "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/01_1_cafe.png",
+    "size": "full",
+    "aspectRatio": "20:13",
+    "aspectMode": "cover",
+    "action": {
+      "type": "uri",
+      "uri": "https://github.com/trueVincent"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "賈泉檳 Vincent Jia",
+        "weight": "bold",
+        "size": "xl"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "margin": "lg",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "text",
+                "text": "Education",
+                "color": "#aaaaaa",
+                "size": "lg",
+                "flex": 2
+              },
+              {
+                "type": "separator"
+              },
+              {
+                "type": "text",
+                "text": "Senior, Information Management, NTUST",
+                "wrap": true,
+                "color": "#666666",
+                "size": "sm",
+                "flex": 5
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "text",
+                "text": "Features",
+                "color": "#aaaaaa",
+                "size": "lg",
+                "flex": 2
+              },
+              {
+                "type": "separator"
+              },
+              {
+                "type": "text",
+                "text": "Developed 3 websites with a team of 3. Teamwork experience",
+                "wrap": true,
+                "color": "#666666",
+                "size": "sm",
+                "flex": 5
+              },
+              {
+                "type": "text",
+                "text": "Managed NTUST Toastmasters Club for 2 years. 20 members attended",
+                "wrap": true,
+                "color": "#666666",
+                "size": "sm",
+                "flex": 5
+              },
+              {
+                "type": "text",
+                "text": "Fluent in English communication. Participated Toastmasters for 3 years",
+                "wrap": true,
+                "color": "#666666",
+                "size": "sm",
+                "flex": 5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "spacing": "sm",
+    "contents": [
+      {
+        "type": "button",
+        "style": "link",
+        "height": "sm",
+        "action": {
+          "type": "uri",
+          "label": "GitHub",
+          "uri": "https://github.com/trueVincent"
+        }
+      }
+    ],
+    "flex": 0
+  }
+}
