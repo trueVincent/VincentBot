@@ -11,7 +11,7 @@ volumes: # 自定义数据卷，位于宿主机/var/lib/docker/volumes内
 
 services:
  web:
-   build: ./mmm957 # 使用myproject目录下的Dockerfile
+   build: ./VincentBot # 使用myproject目录下的Dockerfile
    expose:
       - "8000"
    volumes:
