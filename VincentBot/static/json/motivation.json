@@ -1,0 +1,73 @@
+{
+  "type": "bubble",
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "Motivation",
+        "weight": "bold",
+        "size": "xl"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "margin": "lg",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "text",
+                "text": "Why Intern?",
+                "color": "#aaaaaa",
+                "size": "lg",
+                "flex": 2
+              },
+              {
+                "type": "separator"
+              },
+              {
+                "type": "text",
+                "text": "With the experience of building 3 websites, I have the ability to complete a project. However, the sight of student is limited. So I decide to step in industry. Seeing how they work and how can I achieve!",
+                "wrap": true,
+                "color": "#666666",
+                "size": "sm",
+                "flex": 5
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "text",
+                "text": "Why LINE Taiwan?",
+                "color": "#aaaaaa",
+                "size": "lg",
+                "flex": 2
+              },
+              {
+                "type": "separator"
+              },
+              {
+                "type": "text",
+                "text": "LINE Taiwan have great team, product and reputation. To work in such a talented environment, I am looking forward to brainstorming and learning everything with you!",
+                "wrap": true,
+                "color": "#666666",
+                "size": "sm",
+                "flex": 5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
